@@ -20,5 +20,5 @@ If participation is below quorum, the proposal is automatically rejected.
 
 ## Execution outcome
 
-If approved, the new quorum requirement applies to all future proposals starting from the next epoch.
+If approved, the new allocation becomes effective after one full epoch and applies to future revenue distributions starting from the following epoch. For example, if approved at the end of epoch 200, it becomes effective at the start of epoch 202.
 
