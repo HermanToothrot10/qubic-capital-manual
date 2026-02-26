@@ -1,4 +1,4 @@
-## IPOP — IPO Participation Proposal
+# IPOP — IPO Participation Proposal
 
 **Purpose**
 
