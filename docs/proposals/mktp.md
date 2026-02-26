@@ -30,5 +30,3 @@ Asset management rights must be transferred to QVAULT beforehand.
 
 If approved and sufficient funds are available according to fund allocation priority, the proposal is executed immediately at epoch end and the deal is executed automatically and in full.
 
-Marketplace proposals are either fully executed or not executed at all.
-
