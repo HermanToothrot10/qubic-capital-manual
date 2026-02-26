@@ -3,7 +3,7 @@ site_description: Governance Manual – QVAULT v2
 theme:
   name: material
   language: en
-  logo: logo.webp
+  logo: logo.jpg
   palette:
     - scheme: default
       primary: deep purple
