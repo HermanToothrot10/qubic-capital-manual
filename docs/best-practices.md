@@ -10,3 +10,8 @@ To contribute effectively:
 - **Engage in discussions** on Discord to shape proposals before they reach a vote
 - **Think long-term**, prioritizing decisions that strengthen the treasury and sustainability of Qubic Capital
 
+Governance is permissionless, but its quality depends on informed and engaged participants.
+
+QVAULT v2 enables transparent, rule-based governance for Qubic Capital.
+
+Influence is earned through commitment, attention, and participation.
