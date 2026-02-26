@@ -3,15 +3,15 @@
 The platform includes multiple dedicated screens:
 
 ### Dashboard
-Provides metrics and statistics, including:
+Provides **metrics and statistics**, including:
 - Treasury balances
 - Revenue and dividend data
 - Asset performance
 - Voting participation metrics
 
 ### Proposals
-- Active proposals: can be voted on and tracked in real time
-- Historical proposals: finalized proposals with full results and outcomes
+- **Active proposals**: can be voted on and tracked in real time
+- **Historical proposals**: finalized proposals with full results and outcomes
 
 This ensures full transparency over both governance activity and financial status.
 
