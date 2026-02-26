@@ -23,3 +23,5 @@ Examples include:
 
 Execution is not automatic. If approved, the proposal is executed off-chain, outside the smart contract, by the Qubic Capital admins, according to the approved decision.
 
+Multiple approved proposals of this type may coexist and be effective at the same time.
+
