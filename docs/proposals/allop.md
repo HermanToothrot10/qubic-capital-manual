@@ -1,4 +1,4 @@
-## AlloP — Allocation Percentage Proposal
+# AlloP — Allocation Percentage Proposal
 
 **Purpose**
 
