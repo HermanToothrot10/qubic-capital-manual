@@ -35,8 +35,9 @@ extra:
   
 nav:
   - Introduction: index.md
-  - governance.md
-  - voting-power.md
+  - Governance Overview: governance.md
+  - Voting Power: voting-power.md
+  - Website Functionalities: website-features.md
   - Proposals:
       - GP — General Proposal: proposals/gp.md
       - QCP — Quorum Requirement: proposals/qcp.md
@@ -46,5 +47,4 @@ nav:
       - MKTP — Marketplace Proposal: proposals/mktp.md
       - AlloP — Allocation Percentage: proposals/allop.md
   - Fund Allocation Priority: fund-allocation-priority.md
-  - Website Functionalities: website-features.md
   - Best Practices: best-practices.md
