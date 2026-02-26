@@ -3,6 +3,7 @@
 Only wallets with voting power can vote on proposals.
 
 To obtain voting power:
+
 1. **Transfer QCAP management rights** to QVAULT
 2. **Lock QCAP** in the QVAULT smart contract
 3. **Wait one epoch** (voting power becomes active in the next epoch)
