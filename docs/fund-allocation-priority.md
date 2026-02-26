@@ -1,5 +1,3 @@
-## Fund Allocation Priority
-
 When multiple approved proposals compete for limited treasury funds in the same epoch, QVAULT enforces a strict priority order:
 1. IPOP — IPO Participation
 2. MKTP — Marketplace
