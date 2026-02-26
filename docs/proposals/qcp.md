@@ -6,7 +6,7 @@ To **modify the quorum percentage** required for proposals to be considered vali
 
 Default quorum: 67%
 
-If participation is below quorum, the proposal is automatically rejected.
+This parameter is critical: if participation falls below the quorum threshold, any proposal is automatically rejected.
 
 ## Required inputs
 
