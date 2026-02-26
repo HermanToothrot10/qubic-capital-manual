@@ -2,9 +2,9 @@
 
 When multiple approved proposals compete for limited treasury funds in the same epoch, QVAULT enforces a strict priority order:
 
-1. IPOP — IPO Participation
+**1. IPOP — IPO Participation
 2. MKTP — Marketplace
-3. QEarnP — Qearn
+3. QEarnP — Qearn**
 
 This logic is system-defined and automatically enforced.
 
