@@ -1,5 +1,3 @@
-## Best Practices
-
 Qubic Capital governance relies on active participation from QCAP holders.
 
 To contribute effectively:
