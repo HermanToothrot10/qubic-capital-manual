@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To sell one or more shares to QVAULT in exchange for Qubic and/or QCAP.
+To **sell one or more shares to QVAULT** in exchange for Qubic and/or QCAP.
 
 Asset management rights must be transferred to QVAULT beforehand.
 
