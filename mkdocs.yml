@@ -1,0 +1,19 @@
+site_name: Qubic Capital – User Manual
+theme:
+  name: material
+nav:
+  - Introduction: index.md
+  - Governance Overview: governance.md
+  - Voting Power: voting-power.md
+  - Proposals:
+      - GP — General Proposal: proposals/gp.md
+      - QCP — Quorum Requirement: proposals/qcp.md
+      - IPOP — IPO Participation: proposals/ipop.md
+      - QEarnP — Qearn Proposal: proposals/qearnp.md
+      - FundP — Fundraising Proposal: proposals/fundp.md
+      - MKTP — Marketplace Proposal: proposals/mktp.md
+      - AlloP — Allocation Percentage: proposals/allop.md
+  - Fund Allocation Priority: fund-allocation-priority.md
+  - Website Functionalities: website-features.md
+  - Dashboard & Proposals Views: dashboard.md
+  - Best Practices: best-practices.md
