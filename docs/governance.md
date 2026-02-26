@@ -1,4 +1,4 @@
-# Governance Overview
+## Governance Overview
 
 Qubic Capital operates as a DAO (Decentralized Autonomous Organization) through QVAULT v2.
 
