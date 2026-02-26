@@ -2,7 +2,7 @@
 
 Qubic Capital operates as a DAO (Decentralized Autonomous Organization) through QVAULT v2.
 
-Decisions are made through proposals that are voted on by QCAP holders with voting power. Depending on the proposal type, execution may be automatic (on-chain) or operational (off-chain).
+Decisions are made through proposals that are voted on by QCAP holders with voting power. Depending on the proposal type, execution may be automatic (on-chain) or operational (off-chain, only applicable to GP - General Proposal).
 
 All proposals:
 
