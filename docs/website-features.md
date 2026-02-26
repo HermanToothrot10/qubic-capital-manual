@@ -1,3 +1,5 @@
+## Website Functionalities
+
 The platform includes multiple dedicated screens:
 
 ### Dashboard
