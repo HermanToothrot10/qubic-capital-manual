@@ -1,4 +1,9 @@
-## Voting Power
+---
+hide:
+  - title
+---
+
+# Voting Power
 
 Only wallets with voting power can vote on proposals.
 
