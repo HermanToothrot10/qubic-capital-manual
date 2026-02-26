@@ -1,23 +1,38 @@
 site_name: Qubic Capital
 site_description: Governance Manual – QVAULT v2
+
 theme:
   name: material
   language: en
-  logo: logo.jpg
+  logo: assets/logo.png
+  favicon: assets/logo.png
   palette:
-    - scheme: default
-      primary: deep purple
-      accent: cyan
+    - scheme: slate
+      primary: black
+      accent: teal
   font:
     text: Inter
     code: JetBrains Mono
   features:
     - navigation.instant
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - toc.integrate
     - search.highlight
+    - content.code.copy
+
+extra_css:
+  - styles/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+
+extra:
+  generator: false
+  
 nav:
   - Introduction: index.md
   - governance.md
