@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To modify the percentage allocation of weekly revenues between:
+To modify the **percentage allocation of weekly revenues** between:
 
 - Distribution to QCAP holders
 - Reinvestment fund
