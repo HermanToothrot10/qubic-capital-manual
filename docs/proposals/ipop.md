@@ -25,3 +25,5 @@ If approved and sufficient funds are available according to fund allocation prio
 
 QVAULT automatically bids in the IPO, maximizing the number of shares obtained.
 
+Multiple approved proposals of this type may coexist and be effective at the same time, provided sufficient funds are available.
+
