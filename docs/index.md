@@ -19,3 +19,16 @@ Require a **10,000,000 Qubic proposal fee**
 Finish automatically at **epoch change (Wednesday 12:00 UTC)**
 
 The proposal fee is transferred to the QVAULT treasury to prevent spam and strengthen DAO reserves.
+
+## Voting Power
+
+Only wallets with voting power can vote on proposals.
+
+To obtain voting power:
+1. **Transfer QCAP management rights** to QVAULT
+2. **Lock QCAP** in the QVAULT smart contract
+3. **Wait one epoch** (voting power becomes active in the next epoch)
+
+Voting rights cannot be used in the same epoch in which QCAP is locked.
+Locking QCAP in QVAULT is the only way to participate in governance.
+
