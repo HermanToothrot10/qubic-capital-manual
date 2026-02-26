@@ -1,0 +1,114 @@
+/* ------------------------------
+   Qubic Capital – Dark Teal Style
+   ------------------------------ */
+
+/* Link + accents */
+:root {
+  --qc-teal: #18f0d0;
+  --qc-teal-soft: rgba(24, 240, 208, 0.15);
+  --qc-border: rgba(255, 255, 255, 0.08);
+}
+
+/* Typography feel */
+.md-typeset {
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+/* Header bar */
+.md-header {
+  background: linear-gradient(90deg, rgba(0,0,0,0.88), rgba(0,0,0,0.65));
+  border-bottom: 1px solid var(--qc-border);
+}
+
+/* Sidebar */
+.md-sidebar__scrollwrap {
+  border-right: 1px solid var(--qc-border);
+}
+
+/* Links */
+.md-typeset a {
+  color: var(--qc-teal);
+}
+.md-typeset a:hover {
+  text-decoration: underline;
+}
+
+/* Section headings */
+.md-typeset h2 {
+  border-bottom: 1px solid var(--qc-border);
+  padding-bottom: .35rem;
+  margin-top: 2rem;
+}
+.md-typeset h3 {
+  margin-top: 1.3rem;
+}
+
+/* Code blocks */
+.md-typeset pre > code {
+  border: 1px solid var(--qc-border);
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.3) inset;
+}
+
+/* Admonitions (note/warning/info) */
+.md-typeset .admonition,
+.md-typeset details {
+  border: 1px solid var(--qc-border);
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.3) inset;
+}
+.md-typeset .admonition-title,
+.md-typeset summary {
+  border-bottom: 1px solid var(--qc-border);
+}
+.md-typeset .admonition-title::before,
+.md-typeset summary::before {
+  background: var(--qc-teal);
+}
+
+/* “Glow” accents for buttons/icons */
+.md-header__button:hover,
+.md-nav__link:focus,
+.md-nav__link:hover {
+  color: var(--qc-teal);
+  text-shadow: 0 0 18px rgba(24, 240, 208, 0.35);
+}
+
+/* Subtle card look for blockquotes */
+.md-typeset blockquote {
+  border-left: 4px solid var(--qc-teal);
+  background: rgba(255,255,255,0.03);
+  border-radius: 10px;
+  padding: .8rem 1rem;
+}
+
+/* Better list spacing */
+.md-typeset ul li,
+.md-typeset ol li {
+  margin-bottom: .35rem;
+}
+
+/* ---- Hero on homepage (index.md) ---- */
+.qc-hero {
+  background:
+    linear-gradient(90deg, rgba(0,0,0,0.75), rgba(0,0,0,0.35)),
+    url("../assets/hero.jpg") center/cover no-repeat;
+  border: 1px solid var(--qc-border);
+  border-radius: 18px;
+  padding: 2.2rem 2rem;
+  margin: 1rem 0 2rem 0;
+}
+
+.qc-hero h1, .qc-hero h2, .qc-hero p {
+  margin: 0.4rem 0;
+}
+
+.qc-pill {
+  display: inline-block;
+  border: 1px solid var(--qc-teal-soft);
+  background: rgba(24, 240, 208, 0.08);
+  color: var(--qc-teal);
+  padding: .25rem .6rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+}
