@@ -1,4 +1,4 @@
-## MKTP — Marketplace Proposal
+# MKTP — Marketplace Proposal
 
 **Purpose**
 
