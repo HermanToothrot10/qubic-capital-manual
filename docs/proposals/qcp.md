@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To modify the quorum percentage required for proposals to be considered valid.
+To **modify the quorum percentage** required for proposals to be considered valid.
 
 Default quorum: 67%
 
