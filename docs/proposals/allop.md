@@ -28,3 +28,5 @@ To modify the percentage allocation of weekly revenues between:
 
 If approved, the new allocation becomes effective after one full epoch and applies to future revenue distributions starting from the following epoch. For example, if approved at the end of epoch 200, it becomes effective at the start of epoch 202.
 
+If multiple Allocation Percentage proposals are approved within the same epoch, only the last-created approved proposal is executed. Previously approved allocation proposals from the same epoch are superseded and have no effect.
+
