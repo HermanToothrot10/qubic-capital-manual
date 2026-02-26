@@ -1,6 +1,7 @@
 # FundP — Fundraising Proposal
 
 **Purpose**
+
 To initiate a fundraising round by issuing new QCAP at a fixed price.
 
 **Required inputs**
