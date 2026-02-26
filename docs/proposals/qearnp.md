@@ -1,4 +1,4 @@
-## QEarnP — Qearn Proposal
+# QEarnP — Qearn Proposal
 
 **Purpose**
 
