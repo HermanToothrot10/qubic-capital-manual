@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To decide whether QVAULT should participate in an ongoing IPO and define the maximum amount to allocate.
+To decide whether QVAULT should **participate in an ongoing IPO** and define the **maximum amount to allocate**.
 This proposal type can only be created when an IPO is active.
 
 ## Required inputs
