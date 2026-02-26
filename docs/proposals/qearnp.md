@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To lock Qubic into Qearn for yield generation.
+To **lock Qubic into Qearn** for yield generation.
 
 ## Required inputs
 
