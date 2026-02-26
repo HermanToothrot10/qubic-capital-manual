@@ -10,13 +10,13 @@ Asset management rights must be transferred to QVAULT beforehand.
 
 - GitHub link
 
-## What Qubic Capital receives
+**What Qubic Capital receives**
 
 - Asset name
 - Contract index
 - Share amount
 
-## What the seller receives
+**What the seller receives**
 
 - Qubic amount (≥ 0)
 - QCAP amount (≥ 0)
