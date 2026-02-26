@@ -21,7 +21,9 @@ This proposal type can only be created when an IPO is active.
 
 ## Execution outcome
 
-If approved and sufficient funds are available according to fund allocation priority, QVAULT automatically bids in the IPO, maximizing the number of shares obtained.
+If approved and sufficient funds are available according to fund allocation priority, the proposal is executed immediately at epoch end.
+
+QVAULT automatically bids in the IPO, maximizing the number of shares obtained.
 
 Multiple IPOP proposals may coexist in the same epoch.
 
