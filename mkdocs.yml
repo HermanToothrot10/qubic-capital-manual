@@ -20,8 +20,8 @@ theme:
     - search.highlight
 nav:
   - Introduction: index.md
-  - Governance Overview: governance.md
-  - Voting Power: voting-power.md
+  - governance.md
+  - voting-power.md
   - Proposals:
       - GP — General Proposal: proposals/gp.md
       - QCP — Quorum Requirement: proposals/qcp.md
