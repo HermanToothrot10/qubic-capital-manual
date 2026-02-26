@@ -37,7 +37,7 @@ nav:
   - Introduction: index.md
   - Governance Overview: governance.md
   - Voting Power: voting-power.md
-  - Website Functionalities: website-features.md
+  - Website Features: website-features.md
   - Proposals:
       - GP — General Proposal: proposals/gp.md
       - QCP — Quorum Requirement: proposals/qcp.md
