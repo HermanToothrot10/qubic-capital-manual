@@ -1,5 +1,3 @@
-## QCP — Quorum Requirement Proposal
-
 **Purpose**
 To modify the quorum percentage required for proposals to be considered valid.
 
