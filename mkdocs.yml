@@ -6,7 +6,7 @@ theme:
   logo: logo.webp
   palette:
     - scheme: default
-      primary: indigo
+      primary: deep purple
       accent: cyan
   font:
     text: Inter
