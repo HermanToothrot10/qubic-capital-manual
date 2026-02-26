@@ -32,3 +32,4 @@ Provided sufficient funds are available according to fund allocation priority:
     - Locked principal is returned to the reinvestment fund
     - Rewards are distributed as dividends
 
+Multiple approved proposals of this type may coexist and be effective at the same time, provided sufficient funds are available.
