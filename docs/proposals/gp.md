@@ -1,4 +1,4 @@
-### Purpose
+**Purpose**
 Used for topics that do not clearly fit into other proposal categories. Typically applied to governance, coordination, or strategic matters.
 
 Examples include:
@@ -7,15 +7,15 @@ Examples include:
 - Selection of moderators
 - Strategic or organizational decisions
 
-### Required inputs
+**Required inputs**
 
 - GitHub link describing the proposal
 
-### Voting & approval
+**Voting & approval**
 
 - Quorum must be reached
 - Yes votes must exceed No votes
 
-### Execution outcome
+**Execution outcome**
 Execution is not automatic. If approved, the proposal is executed off-chain, outside the smart contract, by the Qubic Capital admins, according to the approved decision.
 
