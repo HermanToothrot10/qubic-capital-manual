@@ -23,7 +23,9 @@ To lock Qubic into Qearn for yield generation.
 
 ## Execution outcome
 
-If approved and sufficient funds are available according to fund allocation priority:
+If approved, the proposal becomes effective after one full epoch. For example, if approved at the end of epoch 200, it becomes effective at the start of epoch 202.
+
+Provided sufficient funds are available according to fund allocation priority:
 
 - Funds are locked progressively as defined
 - After 52 weeks:
