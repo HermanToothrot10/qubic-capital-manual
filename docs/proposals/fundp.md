@@ -18,5 +18,5 @@ To initiate a fundraising round by issuing new QCAP at a fixed price.
 
 If approved, the fundraising round becomes active and remains open until all QCAP are sold.
 
-Multiple fundraising rounds may be active at the same time.
+Multiple approved proposals of this type may coexist and be effective at the same time.
 
