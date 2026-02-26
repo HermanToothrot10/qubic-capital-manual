@@ -27,6 +27,6 @@ If approved and sufficient funds are available according to fund allocation prio
 
 - Funds are locked progressively as defined
 - After 52 weeks:
-  - Locked principal is returned to the reinvestment fund
-  - Rewards are distributed as dividends
+    - Locked principal is returned to the reinvestment fund
+    - Rewards are distributed as dividends
 
