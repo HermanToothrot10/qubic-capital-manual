@@ -30,3 +30,5 @@ Asset management rights must be transferred to QVAULT beforehand.
 
 If approved and sufficient funds are available according to fund allocation priority, the proposal is executed immediately at epoch end and the deal is executed automatically and in full.
 
+Multiple approved proposals of this type may coexist and be effective at the same time, provided sufficient funds are available.
+
