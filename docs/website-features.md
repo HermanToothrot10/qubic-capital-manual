@@ -3,6 +3,7 @@
 The platform includes multiple dedicated screens:
 
 ## Dashboard
+
 Provides metrics and statistics, including:
 
 - Treasury balances
