@@ -89,14 +89,13 @@
 
 /* ---- Hero on homepage (index.md) ---- */
 .qc-hero {
-  background:
-    linear-gradient(
-      90deg,
-      rgba(0, 0, 0, 0.55),
-      rgba(0, 0, 0, 0.15)
-    ),
-    url("../assets/logo.png") center/contain no-repeat;
-  border: 1px solid var(--qc-border);
+  min-height: 260px !important;
+  background-image: url("/qubic-capital-manual/assets/logo.png") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+
+  border: 2px solid rgba(24, 240, 208, 0.6) !important; /* debug */
   border-radius: 18px;
   padding: 2.8rem 2.5rem;
   margin: 1rem 0 2.2rem 0;
