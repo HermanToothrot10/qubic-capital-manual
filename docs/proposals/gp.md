@@ -1,5 +1,3 @@
-## GP — General Proposal
-
 ### Purpose
 Used for topics that do not clearly fit into other proposal categories. Typically applied to governance, coordination, or strategic matters.
 
