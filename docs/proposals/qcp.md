@@ -4,6 +4,8 @@
 
 To **modify the quorum percentage** required for proposals to be considered valid.
 
+The quorum is measured as a percentage of the total locked QCAP.
+
 Default quorum: 67%
 
 This parameter is critical: if participation falls below the quorum threshold, any proposal is automatically rejected.
