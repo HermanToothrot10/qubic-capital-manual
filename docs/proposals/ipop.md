@@ -16,6 +16,8 @@ This proposal type can only be created when an IPO is active.
 - If voting Yes, voters enter the maximum amount (in Qu) they are willing to allocate
 
 ## Approval & allocation logic
+
+- Quorum required
 - If No votes exceed Yes votes → allocation is 0
 - If Yes votes exceed No votes → the allocated amount is the weighted average of the amounts entered in Yes votes
 
