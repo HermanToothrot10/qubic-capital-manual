@@ -10,4 +10,4 @@ All proposals:
 - Require a **10,000,000 Qubic proposal fee**
 - Finish automatically at **epoch change (Wednesday 12:00 UTC)**
 
-The proposal fee is transferred to the QVAULT treasury to prevent spam and strengthen DAO reserves.
+The proposal fee helps to prevent spam and is added to the epoch’s distribution pool and distributed to QCAP holders as part of the regular distribution cycle.
