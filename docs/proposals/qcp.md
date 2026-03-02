@@ -4,7 +4,7 @@
 
 To **modify the quorum percentage** required for proposals to be considered valid.
 
-The quorum is measured as a percentage of the total locked QCAP.
+The quorum is measured as a percentage of the total locked QCAP and must remain within a range of 33% to 67%.
 
 Default quorum: 67%
 
