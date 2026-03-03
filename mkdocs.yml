@@ -34,7 +34,7 @@ extra:
   generator: false
   
 nav:
-  - Introduction: index.md
+  - Home: index.md
   - Governance Overview: governance.md
   - Voting Power: voting-power.md
   - Website Features: website-features.md
