@@ -12,8 +12,8 @@ This proposal type can only be created when an IPO is active.
 
 ## Voting mechanism
 
-- Voters choose Yes or No
-- If voting Yes, voters enter the maximum amount (in Qu) they are willing to allocate
+- Voters choose Yes or N
+- If voting Yes, voters enter the maximum amount (in Qu) they are willing to allocate. The amount must be at least 1,000,000,000 Qu and cannot exceed the available funds in the reinvestment fund at the time of voting.
 
 ## Approval & allocation logic
 
