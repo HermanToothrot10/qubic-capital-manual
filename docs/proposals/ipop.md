@@ -3,14 +3,13 @@
 ## Purpose
 
 To decide whether QVAULT should **participate in an ongoing IPO** and define the **maximum amount to allocate**.
-This proposal type can only be created when an IPO is active.
+
+This proposal type can only be created when an IPO is active and at least 1,000,000,000 Qu are available in the reinvestment fund.
 
 ## Required inputs
 
 - GitHub link
 - Selection of the IPO to which the proposal applies
-
-Note: The proposal can only be created if at least 1,000,000,000 Qu are available in the reinvestment fund.
 
 ## Voting mechanism
 
