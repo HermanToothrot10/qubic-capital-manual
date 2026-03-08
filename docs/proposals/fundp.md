@@ -16,7 +16,6 @@ To initiate a fundraising round by **issuing new QCAP at a fixed price**.
 
 ## Execution outcome
 
-If approved, the fundraising round becomes active and remains open until all QCAP are sold.
+If approved, the fundraising becomes effective after one full epoch and remains open until all QCAP are sold. For example, if approved at the end of epoch 200, it becomes effective at the start of epoch 202.
 
 Multiple approved proposals of this type may coexist and be effective at the same time.
-
